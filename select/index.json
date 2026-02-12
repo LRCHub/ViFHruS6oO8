@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "おつかれSUMMER",
+  "base_artist": "HALCALI",
+  "createdAt": "2026-02-12T11:16:05.113299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おつかれSUMMER",
+      "artist": "HALCALI",
+      "has_synced": true,
+      "path": "select/01_おつかれSUMMER_HALCALI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おつかれSummer",
+      "artist": "Halcali",
+      "has_synced": false,
+      "path": "select/02_おつかれSummer_Halcali.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おつかれSUMMER (Paused)",
+      "artist": "HALCALI",
+      "has_synced": true,
+      "path": "select/03_おつかれSUMMER_(Paused)_HALCALI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "05. おつかれSUMMER",
+      "artist": "HALCALI",
+      "has_synced": true,
+      "path": "select/04_05._おつかれSUMMER_HALCALI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おつかれSUMMER",
+      "artist": "HALCALI",
+      "has_synced": false,
+      "path": "select/pl_01_おつかれSUMMER_HALCALI.txt"
+    }
+  ]
+}
